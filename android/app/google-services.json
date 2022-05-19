@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039099563670",
+    "firebase_url": "https://movies-app-dc344-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "movies-app-dc344",
+    "storage_bucket": "movies-app-dc344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039099563670:android:ebdc8a75880a715c63bcb7",
+        "android_client_info": {
+          "package_name": "com.example.movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039099563670-05e2m89s2bikfgr7ffeail7lda2a5pf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBztOedEF_d2NqlnjFa2QMOJdsBoRvHvKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039099563670-05e2m89s2bikfgr7ffeail7lda2a5pf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
